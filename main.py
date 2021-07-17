@@ -7,7 +7,8 @@ import grid
 
 os.environ["SDL_VIDEO_CENTERED"]='1'
 
-width, height = 1000,1000
+#resolution
+width, height = 1920,1080
 size = (width, height)
 
 pygame.init()
