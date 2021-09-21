@@ -3,6 +3,7 @@
 ---
 ### Requirements
 > **Pygame** : pip install pygame
+
 > **Numpy**  : pip install numpy
 ---
 ### COMMANDS
