@@ -8,7 +8,7 @@
 ---
 ### COMMANDS
         "Esc"             : to close the window
-        "Space"           : to stope the simulation
+        "Space"           : to Pause the simulation
         "Mouse Left Click": to draw on the grid
 ---
 ![git](https://user-images.githubusercontent.com/48150537/80609593-e6f6ab00-8a55-11ea-9b86-de7ef878a548.png)
